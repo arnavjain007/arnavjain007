@@ -12,7 +12,7 @@
 - 🎓 Computer Science Engineering Graduate
 - 💻 Passionate about Python / Java Development
 - ⚡ Love solving coding problems and building real-world projects
-- ☕ Usually found coding, debugging, or outside
+- ☕ Usually found coding, debugging, or off on some adventure
 
 ---
 

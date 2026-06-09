@@ -9,10 +9,8 @@
 
 ## 🚀 About Me
 
-- 🎓 Third Year Computer & Communication Engineering Student
-- 💻 Passionate about Full Stack Development
-- 🌱 Currently learning **Spring Boot, System Design, and Advanced DSA**
-- 🎯 Preparing for **Software Development Engineer (SDE)** roles
+- 🎓 Computer Science Engineering Graduate
+- 💻 Passionate about Python / Java Development=
 - ⚡ Love solving coding problems and building real-world projects
 - ☕ Usually found coding, debugging, or drinking chai
 
@@ -29,7 +27,7 @@
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,angular" />
 </p>
 
 ### Backend
@@ -41,33 +39,13 @@
 ### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
 </p>
 
 ### Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,docker" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arnavjain007&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavjain007&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=arnavjain007&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

@@ -45,7 +45,7 @@
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,n8n,postman,docker" />
 </p>
 
 ---

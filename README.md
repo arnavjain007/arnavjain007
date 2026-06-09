@@ -54,8 +54,7 @@
 ## 💡 Current Focus
 
 ```text
+✔ Spring Boot and Development in Python
 ✔ Data Structures & Algorithms
-✔ Spring Boot Development
 ✔ System Design
 ✔ Full Stack Projects
-✔ Placement Preparation

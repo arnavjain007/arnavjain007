@@ -10,9 +10,9 @@
 ## 🚀 About Me
 
 - 🎓 Computer Science Engineering Graduate
-- 💻 Passionate about Python / Java Development=
+- 💻 Passionate about Python / Java Development
 - ⚡ Love solving coding problems and building real-world projects
-- ☕ Usually found coding, debugging, or drinking chai
+- ☕ Usually found coding, debugging, or outside
 
 ---
 

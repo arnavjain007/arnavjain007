@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnav Jain</h1>
-<h3 align="center">Computer & Communication Engineering Student | Software Development Engineer</h3>
+<h3 align="center">Software Development Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arnavjain007&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />

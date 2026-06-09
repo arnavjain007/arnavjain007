@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnav Jain</h1>
-<h3 align="center">Computer & Communication Engineering Student | Full Stack Developer | SDE Aspirant</h3>
+<h3 align="center">Computer & Communication Engineering Student | Software Development Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arnavjain007&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -68,22 +68,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=arnavjain007&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnavjain007&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arnavjain007&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---

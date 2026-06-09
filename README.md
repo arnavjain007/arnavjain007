@@ -44,8 +44,9 @@
 
 ### Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,n8n,postman,docker" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,docker" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n" />
 </p>
 
 ---
